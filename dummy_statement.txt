@@ -1,0 +1,50 @@
+Bank Statement - March 2026
+
+Account Holder: You
+Account Number: XXXX-XXXX-1234
+Period: 01/03/2026 to 31/03/2026
+
+DATE        DESCRIPTION                              AMOUNT
+--------------------------------------------------------------
+01/03/2026  Salary - TechCorp Inc.                 85000.00 CR
+02/03/2026  Rent - Grand Apartments                -20000.00 DR
+02/03/2026  Electricity Bill                       -1200.00 DR
+03/03/2026  Zomato Food Delivery                    -450.00 DR
+03/03/2026  Starbucks Coffee Cafe                   -350.00 DR
+04/03/2026  Uber Commute                            -250.00 DR
+05/03/2026  Amazon Shopping - Electronics          -15000.00 DR
+05/03/2026  Netflix Subscription                    -499.00 DR
+06/03/2026  Spotify Premium                         -119.00 DR
+07/03/2026  Grocery - Supermart                    -2500.00 DR
+07/03/2026  Uber Weekend Ride                       -800.00 DR
+08/03/2026  Movie Tickets                           -600.00 DR
+08/03/2026  Restaurant Dinner                      -2200.00 DR
+09/03/2026  Pharmacy - Meds                         -450.00 DR
+10/03/2026  Gym Membership                         -1500.00 DR
+10/03/2026  Freelance Project Payment               8000.00 CR
+11/03/2026  Coffee Bean & Tea Leaf                  -300.00 DR
+12/03/2026  Zomato Lunch                            -250.00 DR
+13/03/2026  Swiggy Instamart                        -800.00 DR
+14/03/2026  Shopping - Myntra Apparel              -4500.00 DR
+15/03/2026  Mobile Recharge                         -299.00 DR
+16/03/2026  Broadband Internet                      -999.00 DR
+17/03/2026  Uber Commute                            -250.00 DR
+18/03/2026  Starbucks Coffee Cafe                   -250.00 DR
+19/03/2026  Water Bill                              -400.00 DR
+20/03/2026  BlinkIt Groceries                      -1200.00 DR
+21/03/2026  Restaurant Dinner                      -3500.00 DR
+21/03/2026  Uber Return Ride                        -450.00 DR
+22/03/2026  Zomato Late Night                       -550.00 DR
+23/03/2026  Book Store                              -850.00 DR
+24/03/2026  Steam Games - EA Sale                  -1200.00 DR
+25/03/2026  Cashback - Credit Card                    50.00 CR
+25/03/2026  Flight Tickets - MakeMyTrip            -8500.00 DR
+26/03/2026  Hotel Booking - Oyo                    -3500.00 DR
+27/03/2026  Uber Connect Transfer                   -120.00 DR
+28/03/2026  Starbucks Airport                       -450.00 DR
+28/03/2026  Airport Lounge Access                  -1000.00 DR
+29/03/2026  Cafe Coffee Day                          250.00 CR
+29/03/2026  Local Transport                         -100.00 DR
+30/03/2026  Zomato Food Delivery                    -350.00 DR
+30/03/2026  BlinkIt Essentials                      -900.00 DR
+31/03/2026  Interest Income - Bank                   120.00 CR
